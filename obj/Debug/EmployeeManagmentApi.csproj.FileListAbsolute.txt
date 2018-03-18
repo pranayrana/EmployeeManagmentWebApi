@@ -1,0 +1,17 @@
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\EmployeeManagmentApi.dll.config
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\EmployeeManagmentApi.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\EmployeeManagmentApi.pdb
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\Newtonsoft.Json.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Net.Http.Formatting.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.WebHost.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\Newtonsoft.Json.xml
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Net.Http.Formatting.xml
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.xml
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.WebHost.xml
+F:\Projects\WebAPi\EmployeeManagmentApi\obj\Debug\EmployeeManagmentApi.csprojResolveAssemblyReference.cache
+F:\Projects\WebAPi\EmployeeManagmentApi\obj\Debug\EmployeeManagmentApi.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\obj\Debug\EmployeeManagmentApi.pdb
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Cors.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.Cors.dll
+F:\Projects\WebAPi\EmployeeManagmentApi\bin\System.Web.Http.Cors.xml
